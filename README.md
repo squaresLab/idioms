@@ -42,6 +42,7 @@ To build the binaries for the dataset, run
 ```
 python main.py --repo-list-file repo_list.txt --n-procs 5
 ```
+You may also download the binaries [here](https://huggingface.co/datasets/ejschwartz/idioms-realtype-binaries).
 
 
 To preprocess the code, run

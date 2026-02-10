@@ -1,1 +1,7 @@
 __pycache__/
+build/
+idioms.egg-info/
+codealign/
+__pycache__/
+*.egg-info/
+*.pyc

@@ -1,7 +1,7 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(
     name="idioms",
     version="0.0.1",
-    packages=['idioms', 'idioms.data'],
+    packages=find_packages(),
 )
